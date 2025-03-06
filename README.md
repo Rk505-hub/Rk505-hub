@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi there! 👋 I'm Raunak Kuikel
 🎓 Master's in Information Assurance | 📊 Data Analytics & AI Enthusiast | ☁️ AWS Certified Cloud Practitioner (In Progress)
 
